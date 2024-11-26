@@ -1,2 +1,9 @@
-# Emacs artifacts
+# Emacs backup files
 *~
+
+# npm artifacts
+node_modules/
+
+# Level auxiliary database
+mydb/
+
