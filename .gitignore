@@ -7,3 +7,6 @@ node_modules/
 # Level auxiliary database
 mydb/
 
+# Sqlite databases
+*.sqlite
+
